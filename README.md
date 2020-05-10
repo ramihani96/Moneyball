@@ -2,7 +2,7 @@
 In this project, we will apply basic Data Science concepts like ( Data Wrangling - Exploratory Data Analysis __(EDA)__ - Data Transformations ) to a Database on __Baseball__ Teams, players and seasons created by __Sean Lahman.__ <br> 
 
 ### Database
-__--> Available here :__ [lahman2014](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite) <br>
+__Available here :__ [lahman2014](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite) <br>
 We will be using __Salaries__ and __Teams__ tables of the database.
 
 ## A Bit of Background 
