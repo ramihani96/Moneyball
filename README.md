@@ -1,8 +1,8 @@
 # Introduction 
-* In this project, we will apply basic Data Science concepts like ( Data Wrangling - Exploratory Data Analysis __(EDA)__ - Data Transformations ) to a Database on __Baseball__ Teams, players and seasons created by __Sean Lahman.__ <br> 
+* In this project, we will apply basic Data Science concepts like __(Data Wrangling - Exploratory Data Analysis - Data Transformations)__ to a Database on Baseball Teams, players and seasons created by __Sean Lahman.__ <br> 
 
 ## A Bit of Background 
-* We’ll be looking at data about teams in Major League Baseball. Teams win games by scoring more runs than their adversary. In principle, better players are costlier, so teams that want good players need to spend more money. Teams that spend the most, frequently win the most. So, the question is, __How can a Team that can't spend so much win?__ 
+* We’ll be looking at data about teams in __Major League Baseball.__ Teams win games by scoring more runs than their adversary. In principle, better players are __costlier__, so teams that want good players need to __spend more money.__ Teams that spend the most, frequently win the most. So, the question is, __How can a Team that can't spend so much win?__ 
 
 ### For More Information, __Check__ :
 * [Wikipidea](https://en.wikipedia.org/wiki/Moneyball). <br>
