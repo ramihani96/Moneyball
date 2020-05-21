@@ -9,7 +9,7 @@
 * [The Moneyball Book](https://www.amazon.com/Moneyball-The-Winning-Unfair-Game/dp/0393324818) <br>
 * [The Moneyball Movie](https://www.imdb.com/title/tt1210166/) <br>
 
-## Question 
+### Question 
 __How Can A Team That Can't Spend So Much Win?__ 
 
 ### Database
