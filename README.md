@@ -13,7 +13,7 @@
 * [The Moneyball Movie](https://www.imdb.com/title/tt1210166/) <br>
 
 ### Question 
-__How Can A Team That Can't Spend So Much Win?__ 
+* __How Can A Team That Can't Spend So Much Win?__ 
 
 ### Database
 * [lahman2014](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite) <br>
