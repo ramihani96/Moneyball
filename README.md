@@ -1,8 +1,11 @@
 # Introduction 
-* In this project, I will apply basic Data Science concepts like __(Data Wrangling - Exploratory Data Analysis - Data Transformations)__ to a Database on Baseball Teams, players and seasons created by __Sean Lahman.__ <br> 
+* I will explore __Sean Lahman__'s database on baseball teams to get some insights about __Team's spendings__ and __Winning rate__ and their relation...etc, Exploring basic Data Science techniques like __(Data Wrangling - Exploratory Data Analysis - Data Transformations).__<br> 
 
 ## A Bit of Background 
-* I’ll be working on data about teams in __Major League Baseball.__ Teams win games by scoring more runs than their adversary. In principle, better players are __more Expensive__, so teams that want good players need to __spend more money.__ Teams that spend the most, frequently win the most. 
+* __In Major League Baseball,__ A game is usually composed of __nine innings.__<br> An __inning__ in baseball is the __basic unit of play__, consisting of __2 halves or frames:__ the "top" (first half) and the "bottom" (second half). In each half, one team bats until three outs are made, with the other team playing defense.<br> 
+The team with the __greater number of runs__ at the end of the game __wins__. If scores are __tied__ at the end of nine innings, __extra innings__ are usually played.<br> 
+Baseball has no game clock, although most games end in the ninth inning. <br>
+In principle, better players are __more expensive__, so teams that want good players need to __spend more money.__ Teams that spend the most, frequently win the most; but this is __not always__ the case as we will see. 
 
 ### For More Information, __Check__ :
 * [Wikipidea](https://en.wikipedia.org/wiki/Moneyball). <br>
