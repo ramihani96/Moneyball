@@ -2,7 +2,7 @@
 * I will explore __Sean Lahman__'s database on baseball teams to get some insights about the data (Ex: Team's __spendings__ and __Winning rate__ and their relation...etc), Exploring basic Data Science techniques like __(Data Wrangling - Exploratory Data Analysis - Data Transformations).__<br> 
 
 ## A Bit of Background 
-* __In Major League Baseball,__ A game is usually composed of __9__ innings, an __inning__ in baseball is the __basic unit of play__, consisting of 2 halves or frames: the __"top"__ (first half) and the __"bottom"__ (second half). In each half, one team bats until three outs are made, with the other team playing defense.<br> 
+* __In Major League Baseball,__ A game is usually composed of 9 innings, an __inning__ in baseball is the __basic unit of play__, consisting of 2 halves or frames: the __"top"__ (first half) and the __"bottom"__ (second half). In each half, one team bats until three outs are made, with the other team playing defense.<br> 
 * The team with the __greater number of runs__ at the end of the game __wins__. If scores are __tied__ at the end of nine innings, __extra innings__ are usually played.<br> 
 * Baseball has no game clock, although most games end in the ninth inning. <br>
 * In principle, better players are __more expensive__, so teams that want good players need to __spend more money.__ Teams that spend the most, frequently win the most; but this is __not always__ the case as we will see. 
