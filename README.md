@@ -13,12 +13,8 @@
 * [The Moneyball Movie](https://www.imdb.com/title/tt1210166/) <br>
 
 ### Question 
-* __Can a team that does not spend much money achieve a good winning rate?__
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+- __Can a team that does not spend much money achieve a good winning rate?__
 ```
 
 ### Database
