@@ -13,9 +13,7 @@
 * [The Moneyball Movie](https://www.imdb.com/title/tt1210166/) <br>
 
 ### Question 
-```diff
-- __Can a team that does not spend much money achieve a good winning rate?__
-```
+* __Can a team that does not spend much money achieve a good winning rate?__
 
 ### Database
 * [lahman2014](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite) <br>
