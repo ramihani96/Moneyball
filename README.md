@@ -17,4 +17,4 @@
 
 ### Database
 * [lahman2014](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite) <br>
-* We will be using __Salaries__ and __Teams__ tables of the database throughout the project.
+* I will be using __Salaries__ and __Teams__ tables of the database throughout the project.
