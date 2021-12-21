@@ -1,5 +1,5 @@
 # Introduction 
-* I'll be working on __Sean Lahman__'s database about baseball teams to get some insights about the data (Ex: Team's __spendings__ and __winning rate__ and their relation...etc). Exploring basic Data Science techniques like (Data Wrangling - Exploratory Data Analysis - Data Transformations).<br> 
+* I used __Sean Lahman__'s database about baseball teams for the analysis of data to get some insights and answer some questions (Ex: Team's __spendings__ and __winning rate__ and their relation...etc). Exploring basic Data Science techniques like (Data Collection - Data Cleaning - Exploratory Data Analysis - Data Transformations).<br> 
 
 ## A Bit of Background 
 * In Major League Baseball, A game is usually composed of 9 innings, an __inning__ in baseball is the basic unit of play, consisting of 2 halves or frames: the __"top"__ (first half) and the __"bottom"__ (second half). In each half, one team bats until three outs are made, with the other team playing defense.<br> 
