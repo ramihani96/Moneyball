@@ -16,5 +16,5 @@
 * __Can a team that does not spend much money achieve a good winning rate?__
 
 ### Database
-* [lahman2014](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite) <br>
-* I will be using __Salaries__ and __Teams__ tables of the database throughout the project.
+* Download the database: [lahman2014](https://github.com/jknecht/baseball-archive-sqlite/raw/master/lahman2014.sqlite) <br>
+* I'll be using __Salaries__ and __Teams__ tables of the database throughout the project.
